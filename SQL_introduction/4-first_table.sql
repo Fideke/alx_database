@@ -5,5 +5,5 @@
 CREATE IF NOT EXITS first_table
 (
     id INT,
-    name VARCHAR
+    name VARCHAR(256)
 );
