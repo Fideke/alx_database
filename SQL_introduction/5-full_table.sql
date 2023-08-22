@@ -1,0 +1,2 @@
+--write a script that prints the full description of the first_table
+--from the database hbtn_0c_0 in mysql server
